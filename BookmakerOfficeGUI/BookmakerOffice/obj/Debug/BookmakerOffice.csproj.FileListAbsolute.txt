@@ -1,0 +1,16 @@
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BookmakerOffice\bin\Debug\BookmakerOffice.exe.config
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BookmakerOffice\bin\Debug\BookmakerOffice.exe
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BookmakerOffice\bin\Debug\BookmakerOffice.pdb
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BookmakerOffice\obj\Debug\BookmakerOffice.csprojAssemblyReference.cache
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BookmakerOffice\obj\Debug\BookmakerOffice.Properties.Resources.resources
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BookmakerOffice\obj\Debug\BookmakerOffice.csproj.GenerateResource.cache
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BookmakerOffice\obj\Debug\BookmakerOffice.csproj.CoreCompileInputs.cache
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BookmakerOffice\obj\Debug\BookmakerOffice.exe
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BookmakerOffice\obj\Debug\BookmakerOffice.pdb
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BookmakerOffice\obj\Debug\BookmakerOffice.SignInWindow.resources
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BookmakerOffice\bin\Debug\BetSystem.dll
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BookmakerOffice\bin\Debug\BetSystem.pdb
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BookmakerOffice\obj\Debug\BookmakerOffice.csproj.CopyComplete
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BookmakerOffice\obj\Debug\BookmakerOffice.SignUpWindow.resources
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BookmakerOffice\obj\Debug\BookmakerOffice.UserWindow.resources
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BookmakerOffice\obj\Debug\BookmakerOffice.AdminWindow.resources

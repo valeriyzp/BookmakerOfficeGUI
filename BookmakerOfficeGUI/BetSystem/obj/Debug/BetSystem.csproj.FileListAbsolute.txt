@@ -1,0 +1,6 @@
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BetSystem\bin\Debug\BetSystem.dll
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BetSystem\bin\Debug\BetSystem.pdb
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BetSystem\obj\Debug\BetSystem.csprojAssemblyReference.cache
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BetSystem\obj\Debug\BetSystem.csproj.CoreCompileInputs.cache
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BetSystem\obj\Debug\BetSystem.dll
+C:\Users\Valeriy\Desktop\BookmakerOfficeGUI\BetSystem\obj\Debug\BetSystem.pdb
